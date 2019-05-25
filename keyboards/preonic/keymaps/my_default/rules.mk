@@ -1,1 +1,4 @@
 SRC += muse.c
+API_SYSEX_ENABLE = no
+BACKLIGHT_ENABLE = no
+AUDIO_ENABLE = no
